@@ -2,13 +2,13 @@
 
 [[package]]
 name = "database-schema-ensurer"
-version = "1.0.0"
+version = "2.0.0"
 description = ""
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "database_schema_ensurer-1.0.0-py3-none-any.whl", hash = "sha256:6fb8e0ccec624c3745e4d97ca00be5ea3079c90fb730b29539e5482ec97ced4d"},
-    {file = "database_schema_ensurer-1.0.0.tar.gz", hash = "sha256:4e8965f18d0940536053549f252ba87cc90bd671b6e622c3f63372590f51e194"},
+    {file = "database_schema_ensurer-2.0.0-py3-none-any.whl", hash = "sha256:9b24bb08187d837c6cb7a22d6649a39f8d9871f64b678065964ff66f26ccd2d1"},
+    {file = "database_schema_ensurer-2.0.0.tar.gz", hash = "sha256:1dc33553c3e41f999f055946c7c6c01cdb8c318d284c04ab9db84e67fefb185f"},
 ]
 
 [[package]]
@@ -95,4 +95,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "ac41a71262305b01ea5341bd99170ae6ef9f602b2af81f0312a0438bfbca022a"
+content-hash = "e89e20ae0ef316f6bfd17eef591d0b7506d66f50432e8b08caa04872b7cb67ba"
